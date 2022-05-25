@@ -8,7 +8,7 @@ Collect information from google sheets and upload it to Postgres DB.
 # Запуск
 
 1) Скачиваем/клонируем репозиторий `https://github.com/Minigamy/googlesheets_postgres`
-2) Устанавливаем зависимости из файла requirements.txt командой в терминале `pip install -r req.txt`
+2) Устанавливаем зависимости из файла req.txt командой в терминале `pip install -r req.txt`
 3) Запускаем скрипт `scheduler.py`
 
 Для корректной работы БД в файле `main.py` в самом начале необходимо указать ваши данные `USER` и `PASSWORD` для подключения к БД.
