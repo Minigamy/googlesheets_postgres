@@ -7,10 +7,10 @@ from sqlalchemy import create_engine
 from sqlalchemy_utils import database_exists, create_database
 
 
-DATABASE = "kanalservis"
-USER = "postgres"
-PASSWORD = "postgres"
-HOST = "localhost"
+DATABASE = "kanalservis_db"
+USER = "root"
+PASSWORD = "root"
+HOST = "pg_db"
 PORT = "5432"
 
 
