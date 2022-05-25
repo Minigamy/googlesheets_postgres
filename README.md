@@ -6,7 +6,7 @@ Collect information from google sheets and upload it to Postgres DB.
 Скрипт обновляет данные каждую минуту.
 
 Ссылка на Google таблицу:
-https://docs.google.com/spreadsheets/d/1qYgv1AGB7eyeNyYciHAvyGZkR9fvxUKUWjvqy4No568/edit#gid=0
+https://docs.google.com/spreadsheets/d/1qYgv1AGB7eyeNyYciHAvyGZkR9fvxUKUWjvqy4No568/edit?usp=sharing
 
 ***
 # Запуск в Docker
