@@ -37,6 +37,7 @@ https://docs.google.com/spreadsheets/d/1qYgv1AGB7eyeNyYciHAvyGZkR9fvxUKUWjvqy4No
 5) Сохраняем на кнопку `Save`
 
 
+***
 # Запуск без Docker
 
 1) Скачиваем/клонируем репозиторий `https://github.com/Minigamy/googlesheets_postgres`
