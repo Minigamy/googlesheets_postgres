@@ -8,6 +8,7 @@ Collect information from google sheets and upload it to Postgres DB.
 Ссылка на Google таблицу:
 https://docs.google.com/spreadsheets/d/1qYgv1AGB7eyeNyYciHAvyGZkR9fvxUKUWjvqy4No568/edit#gid=0
 
+***
 # Запуск в Docker
 1) Скачиваем/клонируем репозиторий `https://github.com/Minigamy/googlesheets_postgres`
 2) Запускаем контейнеры с Postgresql, pgAdmin и скриптом командой в терминале `docker-compose up --build -d` (Обязательно должен быть установлен и запущен Docker)
