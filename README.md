@@ -39,7 +39,7 @@ https://docs.google.com/spreadsheets/d/1qYgv1AGB7eyeNyYciHAvyGZkR9fvxUKUWjvqy4No
 
 
 ***
-# Запуск без Docker
+# Запуск локально
 
 1) Скачиваем/клонируем репозиторий `https://github.com/Minigamy/googlesheets_postgres`
 2) Устанавливаем зависимости из файла req.txt командой в терминале `pip install -r req.txt`
