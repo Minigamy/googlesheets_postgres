@@ -1,4 +1,4 @@
-# googlesheets_postgres
+#  From Google Sheets to PostgreSQL
 Collect information from google sheets and upload it to Postgres DB.
 
 # Описание
